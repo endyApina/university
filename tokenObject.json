@@ -1,0 +1,31 @@
+{
+    "code": 200,
+    "data": {
+        "Token": "a4b4c251-b10c-436c-b3e7-2bd68b729318",
+        "Expiration": "2018-11-21 10:31:12",
+        "ClientId": "ideahub",
+        "Username": "endyapina",
+        "TokenType": "bearer",
+        "TokenScope": "read",
+        "RefreshToken": "11dd42d4-77c9-4d00-bf95-a319f9907929"
+    },
+    "enterPrise": {
+        "id": 3,
+        "account_owner": "endyapina",
+        "account_id": "214",
+        "company": "AEL",
+        "companyname": "Apina Endy Limited"
+        },
+    "extra": {
+        "id": 214,
+        "lname": "Endy",
+        "fname": "Apinageri",
+        "myemail": "apinaendy@gmail.com",
+        "address": "Lekki",
+        "city": "Lekki",
+        "username": "endyapina",
+        "picture": "http://188.166.1.196:5000/profilepics/",
+        "company": "1"
+        },
+    "result": true
+}

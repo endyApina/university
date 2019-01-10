@@ -1,0 +1,803 @@
+[
+    {
+       "faculty":"Law",
+       "id":"law",
+       "departments":[
+          {
+             "department":"Law",
+             "dept-id":"law",
+             "degree":"Bachelors of Law (LLB)",
+             "level": [
+                {
+                   "level": "100",
+                   "course": [
+                     {
+                        "code": "JIL 111",
+                        "title": "Legal Methods I",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                       "code": "ECC 101",
+                       "title": "Principles of Economics I",
+                       "unit": "2",
+                       "level": "100",
+                       "semester": "1"
+                     },
+                     {
+                        "code": "PSY 101",
+                        "title": "Introduction to Psychology I",
+                        "unit": "2",
+                        "level": "100",
+                        "semester":"1"
+                     },
+                     {
+                        "code": "ENG 111",
+                        "title": "English Literature I",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "GST 111",
+                        "title": "Communication in English I",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "GST 113",
+                        "title": "Nigerian Peoples & Culture",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "GST 121",
+                        "title": "Use of Library",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "GST 123",
+                        "title": "Communication in French",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "GST 125",
+                        "title": "Introduction to Enterpreneurship Studies I",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "1"
+                     },
+                     {
+                        "code": "JIL 112",
+                        "title": "Legal Methods II",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "ECC 102",
+                        "title": "Principles of Economics II",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "PSY 102",
+                        "title": "Introduction to Psychology II",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "ENG 112",
+                        "title": "English Literature II",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "GST 102",
+                        "title": "Fundamental Philosophy",
+                        "unit": "1",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "GST 112",
+                        "title": "Logic, Philosophy and Human Existence",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "GST 122",
+                        "title": "Communication in English II",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "GST 142",
+                        "title": "Communication in German",
+                        "unit": "1",
+                        "level": "100",
+                        "semester": "2"
+                     },
+                     {
+                        "code": "GST 162",
+                        "title": "Introduction to the Social Sciences",
+                        "unit": "2",
+                        "level": "100",
+                        "semester": "2"
+                     }
+                  ]
+                },
+                {
+                   "level": "200",
+                   "course": [
+                      {
+                         "code": "JIL 211",
+                         "title": "Nigerian Legal System I",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "PUL 221",
+                         "title": "Constitutional Law I",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "PUL 223",
+                         "title": "Administrative Law I",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "CIL 231",
+                         "title": "Law of Contract I",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "CSC 101",
+                         "title": "Introduction to Computer Science",
+                         "unit": "2",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "GST 211",
+                         "title": "Fundamental Theology",
+                         "unit": "1",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "GST 215",
+                         "title": "Introduction to Enterpreneurship Studies II",
+                         "unit": "2",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "GST 221",
+                         "title": "History & Philosophy of Science",
+                         "unit": "2",
+                         "level": "200",
+                         "semester": "1"
+                      },
+                      {
+                         "code": "JIL 212",
+                         "title": "Nigerian Legal System II",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "2" 
+                      },
+                      {
+                         "code": "PUL 222",
+                         "title": "Constitutional Law II",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "2"
+                      },
+                      {
+                         "code": "PUL 224",
+                         "title": "Administrative Law II",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "2"
+                      },
+                      {
+                         "code": "CIL 232",
+                         "title": "Law of Contract II",
+                         "unit": "4",
+                         "level": "200",
+                         "semester": "2"
+                      },
+                      {
+                         "code": "GST 222",
+                         "title": "Peace and Conflict Resolution",
+                         "unit": "2",
+                         "level": "200",
+                         "semester": "2"
+                      },
+                      {
+                         "code": "GST 224",
+                         "title": "Fundamental Ethics",
+                         "unit": "1",
+                         "level": "200",
+                         "semester": "2"
+                      }
+                   ]
+                },
+                {
+                   "level": "300",
+                   "course": [
+                      {
+                         "code": "PUL 321",
+                         "title": "Criminal Law I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                        "code": "CIL 331",
+                        "title": "Commercial Law I",
+                        "unit": "4",
+                        "level": "300",
+                        "semester": "1",
+                        "status": "core"
+                      },
+                      {
+                         "code": "PPL 341",
+                         "title": "Law of Torts",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 311",
+                         "title": "Human Rights I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 323",
+                         "title": "Health Law I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 333",
+                         "title": "Labour Law I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 335",
+                         "title": "Information Technology Law I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 337",
+                         "title": "Legal Informatics",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PPL 343",
+                         "title": "Enviromental Law I",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "SOC 101",
+                         "title": "Intorduction to Sociology",
+                         "unit": "2",
+                         "level": "300",
+                         "semester": "1",
+                         "status": "required"
+                      },
+                      {
+                         "code": "PUL 322",
+                         "title": "Criminal Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "CIL 332",
+                         "title": "Commercial Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "PPL 342",
+                         "title": "Law of Torts II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 312",
+                         "title": "Human Rights II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 324",
+                         "title": "Health Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 334",
+                         "title": "Labour Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 336",
+                         "title": "Information Technology Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 338",
+                         "title": "Legal Informatics",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PPL 344",
+                         "title": "Enviromental Law II",
+                         "unit": "4",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "SOC 102",
+                         "title": "Intorduction to Sociology II",
+                         "unit": "2",
+                         "level": "300",
+                         "semester": "2",
+                         "status": "required"
+                      }
+                   ]
+                },
+                {
+                   "level": "400",
+                   "course": [
+                      {
+                         "code": "PUL 421",
+                         "title": "Law of Evidence I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "PPL 441",
+                         "title": "Land Law I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "PPL 443",
+                         "title": "Equity and Trust I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 411",
+                         "title": "Conflict of Laws I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PPL 445",
+                         "title": "Family Law I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 431",
+                         "title": "Revenue Law I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 433",
+                         "title": "Laws Arbitration I",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PSC 101",
+                         "title": "Introduction to Political Science",
+                         "unit": "2",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "required"
+                      },
+                      {
+                         "code": "BAM 201",
+                         "title": "Principles of Management I",
+                         "unit": "3",
+                         "level": "400",
+                         "semester": "1",
+                         "status": "required"
+                      },
+                      {
+                         "code": "PUL 422",
+                         "title": "Law of Evidence II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "PPL 442",
+                         "title": "Land Law II",
+                         "unit": "4",
+                         "level":"400",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "PPL 444",
+                         "title": "Equity and Trust II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 412",
+                         "title": "Conflict of Laws II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PPL 446",
+                         "title": "Family Law II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 432",
+                         "title": "Revenue Law II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 434",
+                         "title": "Laws Arbitration II",
+                         "unit": "4",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PSC 102",
+                         "title": "Introduction to Political Science II",
+                         "unit": "2",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "required"
+                      },
+                      {
+                         "code": "BAM 202",
+                         "title": "Principles of Management II",
+                         "unit": "3",
+                         "level": "400",
+                         "semester": "2",
+                         "status": "required"
+                      }
+                   ]
+                },
+                {
+                   "level": "500",
+                   "course": [
+                      {
+                         "code": "JIL 511",
+                         "title": "Jurisprudence I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "CIL 531",
+                         "title": "Company Law I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "LAW 591",
+                         "title": "Research Methodology",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 513",
+                         "title": "International Law I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "JIL 515",
+                         "title": "Humanitarian Law",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 521",
+                         "title": "Civil Procedure I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 523",
+                         "title": "Media Law",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 533",
+                         "title": "Oil and Gas Law I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 535",
+                         "title": "Banking Law I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 537",
+                         "title": "Intellectual Property I",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "1",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "JIL 512",
+                         "title": "Jurisprudence II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "CIL 532",
+                         "title": "Company Law II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "core"
+                      },
+                      {
+                         "code": "JIL 514",
+                         "title": "International Law II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "JIL 516",
+                         "title": "Humanitarian Law",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 522",
+                         "title": "Criminal! Procedure II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "PUL 524",
+                         "title": "Media Law",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 534",
+                         "title": "Oil and Gas Law II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 536",
+                         "title": "Banking Law II",
+                         "unit": "4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      },
+                      {
+                         "code": "CIL 538",
+                         "title": "Intellectual Property II",
+                         "unit":"4",
+                         "level": "500",
+                         "semester": "2",
+                         "status": "elective"
+                      }
+                   ]
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "faculty":"Sciences",
+       "id":"sciences",
+       "departments":[
+          {
+             "department":"Computer and Information Sciences",
+             "dept-id":"cis",
+             "degree":"B.Sc Computer and Information Sciences"
+          },
+          {
+             "department":"Computer Science with electronics",
+             "dept-id":"cee",
+             "degree":"B.Sc Computer Science with Electronics"
+          },
+          {
+             "department":"Computer Science with Economics ",
+             "dept-id":"cse",
+             "degree":"B.Sc Computer Science With Economics"
+          },
+          {
+             "department":"Microbiology",
+             "dept-id":"mcb",
+             "degree":"B.Sc Microbiology"
+          },
+          {
+             "department":"Biochemistry",
+             "dept-id":"bch",
+             "degree":"B.Sc Biochemistry"
+          },
+          {
+             "department":"Physics",
+             "dept-id":"phy",
+             "degree":"B.Sc Physics"
+          }
+       ]
+    },
+    {
+       "faculty":"Social and Management Science",
+       "id":"social sciences",
+       "departments":[
+          {
+             "department":"Psychology, Sociology, Criminology and Security studies",
+             "dept-id":"psy",
+             "degree":"B. Arts Psychology, Sociology, Criminology and Security studies"
+          },
+          {
+             "department":"Mass Communication",
+             "dept-id":"msc",
+             "degree":"B. Arts Mass Communication"
+          },
+          {
+             "department":"Politics and International Relations",
+             "dept-id":"pir",
+             "degree":"B. Arts Politics and International Relations"
+          },
+          {
+             "department":"Accounting",
+             "dept-id":"acc",
+             "degree":"B. Arts Accounting"
+          }
+       ]
+    },
+    {
+       "faculty":"Basic Medical and Health Sciences",
+       "id":"medical and health science",
+       "departments":[
+          {
+             "department":"Nursing",
+             "dept-id":"nursing",
+             "degree":"B.Sc Nursing"
+          },
+          {
+             "department":"Human Anatomy",
+             "dept-id":"anatomy",
+             "degree":"B.Sc Anatomy"
+          },
+          {
+             "department":"Nutrition and Dietics",
+             "dept-id":"nutrition",
+             "degree":"B.Sc Nutrition and Dietics"
+          }
+       ]
+    }
+ ]
